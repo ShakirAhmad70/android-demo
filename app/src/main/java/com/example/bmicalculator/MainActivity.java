@@ -15,8 +15,7 @@ import android.widget.EditText;
 import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
-    hello dear
-
+hello boys
     private AppCompatEditText etWeight, etHeightFt, etHeightIn;
     private AppCompatButton btnCalc;
     private AppCompatTextView tvResult;
