@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BMICalculator</string>
+    <string name="etWeight">Enter your weight</string>
+    <string name="etHeightFt">Enter feet of your height</string>
+    <string name="etHeightIn">Enter inches of your height</string>
+    <string name="btnCalc">Calculate BMI</string>
+    <string name="result">Result</string>
+</resources>
