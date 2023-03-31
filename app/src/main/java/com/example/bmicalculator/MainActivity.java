@@ -15,6 +15,7 @@ import android.widget.EditText;
 import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
+    hello dear
 
     private AppCompatEditText etWeight, etHeightFt, etHeightIn;
     private AppCompatButton btnCalc;
